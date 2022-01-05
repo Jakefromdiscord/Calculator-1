@@ -111,6 +111,10 @@ for(let i =1; i <= 10; i++){
 let score = 0
 let passingScore = 7
 
+for(let i = 10; i>=1; i--){
+  console.log(i)
+}
+
 ////////// PROBLEM 8 //////////
 
 /*
